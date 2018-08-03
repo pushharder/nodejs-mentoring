@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-mentoring",
+  "version": "1.0.0",
+  "description": "nodejs mentoring course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushharder/nodejs-mentoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushharder/nodejs-mentoring/issues"
+  },
+  "homepage": "https://github.com/pushharder/nodejs-mentoring#readme"
+}
